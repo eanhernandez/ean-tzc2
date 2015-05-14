@@ -31,7 +31,7 @@ namespace TZC
                     while (sr.Peek() >= 0)
                     {
                         string[] a = sr.ReadLine().Split(',');
-                        zones.Add(a[0],Convert.ToInt32(a[1]));
+                        zones.Add(a[0],Convert.ToInt32(a[1]));  //brdcrp
                     }
                 }
             }
