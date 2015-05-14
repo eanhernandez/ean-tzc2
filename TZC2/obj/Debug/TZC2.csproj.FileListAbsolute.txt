@@ -1,0 +1,9 @@
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\bin\Debug\TZC2.exe.config
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\bin\Debug\TZC2.exe
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\bin\Debug\TZC2.pdb
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\obj\Debug\TZC2.csprojResolveAssemblyReference.cache
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\obj\Debug\TZC2.Properties.Resources.resources
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\obj\Debug\TZC2.csproj.GenerateResource.Cache
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\obj\Debug\TZC2.exe
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\obj\Debug\TZC2.pdb
+c:\users\ccisea1enh\documents\visual studio 2013\Projects\TZC2\TZC2\obj\Debug\TZC.MainForm.resources
